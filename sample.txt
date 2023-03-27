@@ -1,0 +1,10 @@
+[This is a good example]
+int p;
+int a;
+int i;
+bool b;
+b<~1;
+a<~0;
+p<~1;
+i<~10;
+a<~b+1;

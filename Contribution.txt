@@ -1,0 +1,5 @@
+group 3
+Jiaju WANG (William) ： 20% comment and test
+Liangke LIN (Cornes) ： 27% main idea，phase 3 part1 and phase 2
+Jingxi LU (Blair)： 25% sgcc code
+Chenyu YE (David)：28%  other
